@@ -1,0 +1,10 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -0,0 +1,8 @@
++.vs/ReservasSalones/v17/DocumentLayout.json
++.vs/ReservasSalones/v17/DocumentLayout.backup.json
++.vs/ReservasSalones/FileContentIndex/f40ba948-99b2-4ea1-8263-19e8613f9019.vsidx
++.vs/ReservasSalones/v17/.suo
++.vs/ReservasSalones/FileContentIndex/77840482-772c-45dc-8c98-75020d97827d.vsidx
++.vs/ReservasSalones/FileContentIndex/4a8394b5-180b-41a1-b43a-7aec3030c7f8.vsidx
++.vs/ReservasSalones/config/applicationhost.config
++.vs/ReservasSalones/FileContentIndex/42abc7e6-bdf0-4573-b7f9-2453759692f9.vsidx
